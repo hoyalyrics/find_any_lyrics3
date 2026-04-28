@@ -1,0 +1,7 @@
+{
+  "name": "find_any_lyrics2",
+  "version": "2",
+  "description": "The findanylyrics project is a simple and practical tool for searching and extracting song lyrics from various online sources. It offers high speed and accuracy, providing users easy access to music lyrics. This project is ideal for music enthusiasts and developers creating apps related to song lyrics.",
+  "private": true,
+  "license": "MIT"
+}
